@@ -21,8 +21,6 @@ function getDailyQuote(today = new Date()) {
 export default async function Home() {
   const { text, source } = getDailyQuote();
 
-  console.log(getDailyQuote(new Date(2022, 11, 24)));
-
   return (
     <main>
       <div className="bg-gray-200 min-h-screen flex items-center justify-center">
