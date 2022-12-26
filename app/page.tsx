@@ -1,3 +1,5 @@
+"use client";
+
 import "./output.css";
 import quotes from "../data/quotes.json";
 
