@@ -32,7 +32,7 @@ export default async function Home() {
   return (
     <main>
       <div className="bg-gray-200 min-h-screen flex items-center justify-center">
-        <div className="bg-white shadow-lg rounded-lg p-8 max-w-lg text-center text-gray-800">
+        <div className="bg-white shadow-lg rounded-lg p-8 max-w-lg text-center text-gray-800 mx-2">
           <h1 className="font-bold text-3xl mb-2 text-gray-600">
             &quot;{text}&quot;
           </h1>
