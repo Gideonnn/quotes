@@ -1,7 +1,14 @@
-"use client";
-
 import "./output.css";
 import quotes from "../data/quotes.json";
+import { Quote } from "../pages/api/quotes";
+
+async function getAllQuotes() {
+  const result = await fetch("https://quote.gideon.blog/api/quotes");
+  if (!result.ok) {
+    throw new Error("Error while fetching quotes");
+  }
+  return result.json();
+}
 
 function getDayOfYear(date: Date) {
   const timestamp1 = Date.UTC(
@@ -15,13 +22,12 @@ function getDayOfYear(date: Date) {
   return differenceInDays;
 }
 
-function getDailyQuote(today = new Date()) {
-  const index = getDayOfYear(today) % quotes.length;
-  return quotes[index];
-}
-
 export default async function Home() {
-  const { text, source } = getDailyQuote();
+  const quotes = await getAllQuotes();
+  const today = new Date();
+  today.setDate(2);
+  const index = getDayOfYear(today) % quotes.length;
+  const { text, source } = quotes[index];
 
   return (
     <main>
