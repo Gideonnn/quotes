@@ -25,7 +25,6 @@ function getDayOfYear(date: Date) {
 export default async function Home() {
   const quotes = await getAllQuotes();
   const today = new Date();
-  today.setDate(2);
   const index = getDayOfYear(today) % quotes.length;
   const { text, source } = quotes[index];
 
