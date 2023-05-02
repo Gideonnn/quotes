@@ -3,7 +3,9 @@ import quotes from "../data/quotes.json";
 import { Quote } from "../pages/api/quotes";
 
 async function getAllQuotes() {
-  const result = await fetch("https://quote.gideon.blog/api/quotes");
+  const result = await fetch("https://quote.gideon.blog/api/quotes", {
+    next: { revalidate: 60 },
+  });
   if (!result.ok) {
     throw new Error("Error while fetching quotes");
   }
