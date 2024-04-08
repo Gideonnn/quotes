@@ -1,0 +1,397 @@
+[
+  {
+    "text": "Intelligence = Speed of the car | Smart = Good at driving it | Wisdom = Knowing where to drive."
+  },
+  {
+    "text": "Functions delay binding: data structures induce binding. Moral: Structure data late in the programming process."
+  },
+  { "text": "Symmetry is a complexity reducing concept; seek it everywhere." },
+  {
+    "text": "It is easier to write an incorrect program than understand a correct one."
+  },
+  {
+    "text": "A programming language is low level when its programs require attention to the irrelevant."
+  },
+  {
+    "text": "Give me a lever long enough, and a place to stand, and I will move the earth.",
+    "source": "Archimedes"
+  },
+  {
+    "text": "Mindfulness is de onveroordeelde belevenis van het huidige moment."
+  },
+  {
+    "text": "One reason old buildings seem generally better than new buildings is survivorship bias. We only see the exceptional old buildings that were worth preserving."
+  },
+  {
+    "text": "Perfection is achieved, not when there is nothing left to add, but when there is nothing left to remove.",
+    "source": "Antoine de Saint-Exupéry"
+  },
+  {
+    "text": "A computer should be to a programmer what canvas is to a painter: not the thing you stare at if you need inspiration",
+    "source": "Michel Weststrate"
+  },
+  {
+    "text": "Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law."
+  },
+  {
+    "text": "Pressure can bust pipes, but it also can make diamonds. ",
+    "source": "Tim Grover"
+  },
+  {
+    "text": "If you can't explain it simply, you don't understand it well enough. ",
+    "source": "Albert Einstein"
+  },
+  {
+    "text": "If there's a good prize, everyone is going to game the system to get that.",
+    "source": "Paraphrased Goodhart's Law"
+  },
+  {
+    "text": "We suffer more often in imagination than in reality.",
+    "source": "Seneca"
+  },
+  { "text": "Men lijdt het meest door het lijden dat men vreest." },
+  {
+    "text": "Het leed dat is, drukt niet zo zwaar. Als vrees voor het gevaar."
+  },
+  {
+    "text": "Easy choices, hard life. Hard choices, easy life.",
+    "source": "Jerzy Gregorek"
+  },
+  {
+    "text": "At the age of 20, we don't care what the world thinks of us; at 30, we worry about what it is thinking of us; at 40, we discover that it wasn't thinking of us at all. -Unknown"
+  },
+  {
+    "text": "If you fail to plan, you are planning to fail",
+    "source": "Benjamin Franklin"
+  },
+  { "text": "Als je faalt om te plannen, plan je om te falen." },
+  {
+    "text": "The true strenght of a wolf isn't fangs, speed and skill. It's the pack",
+    "source": "Altered Carbon, donker vrouwtje"
+  },
+  {
+    "text": "We are what we repeatedly do. Excelence, then, is not an act, but a habit",
+    "source": "Aristoteles"
+  },
+  {
+    "text": "We are what we pretent to be, so we must be careful about what we pretent to be",
+    "source": "Kurt Vonnegut, Amerikaanse schrijver"
+  },
+  {
+    "text": "It is not our enemies that defeat us, it is our fear",
+    "source": "Poe, hotel dude uit Altered Carbon"
+  },
+  {
+    "text": "Your head is for having idea's, not holding them",
+    "source": "David Allen, author of Getting Things Done"
+  },
+  { "text": "Slow is smooth, smooth is fast", "source": "Navy SEALs" },
+  {
+    "text": "You must be shapeless, formless, like water. When you pour water in a cup, it becomes the cup. When you pour water in a bottle, it becomes the bottle. When you pour water in a teapot, it becomes the teapot. Water can drip and it can crash. Become like water my friend.",
+    "source": "Bruce Lee"
+  },
+  {
+    "text": "Money, like alcohol and power tend to make you more of what you already are",
+    "source": "Tim Ferris"
+  },
+  { "text": "Karakter is datgene wat men heeft als niemand kijkt" },
+  {
+    "text": "Programming is what you do when you're alone, software engineering is what you do when you are in a team",
+    "source": "Lucan Fernandes da Costa"
+  },
+  { "text": "Ambitie is een kansloze aspiratie" },
+  { "text": "We like the people we are like" },
+  {
+    "text": "There are far, far better things ahead than any we leave behind.",
+    "source": "C.S. Lewis"
+  },
+  { "text": "Certainty is the enemy of growth", "source": "Mark Manson" },
+  {
+    "text": "Uncertainty is the root of all progress and all growth",
+    "source": "Mark Manson"
+  },
+  {
+    "text": "The man who believes he knows everything learns nothing",
+    "source": "Mark Manson"
+  },
+  {
+    "text": "A wise man never knows all; only a fool does",
+    "source": "Random Afrikaan op een plaatje"
+  },
+  {
+    "text": "Work expands so as to fil up the time available for its completion",
+    "source": "Parkinson's Law"
+  },
+  {
+    "text": "Acts of love are valid only if they're performed without conditions or expectations",
+    "source": "Mark Manson"
+  },
+  {
+    "text": "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time",
+    "source": "Halley's Comet"
+  },
+  {
+    "text": "Perfection is achieved ... when there is nothing left to take away",
+    "source": "Antoine de Saint-Exupéry"
+  },
+  {
+    "text": "Never attribute to malice that which is adequately explained by stupidity",
+    "source": "Hanlon's razor"
+  },
+  {
+    "text": "In simpler words: some bad things happen not because of people having bad intentions, but because they did not think it through properly"
+  },
+  {
+    "text": "In life, velocity matters very little, accelleration means everything",
+    "source": "Peter Attia"
+  },
+  {
+    "text": "Alles in het leven is pas zichtbaar door contrast. Geluk is geen geluk zonder ongeluk. Tijdens het hardlopen ga je dood, maar als je het haalt dan voel je je geweldig, dat is emotionele acceleratie."
+  },
+  {
+    "text": "A worthy goal for a year is to learn enough about a subject so that you can't believe how ignorant you were a year earlier.",
+    "source": "Dude op het internet"
+  },
+  {
+    "text": "Pros are just amateurs who know how to gracefully recover from their mistakes.",
+    "source": "Kevin Jee"
+  },
+  {
+    "text": "A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a working simple system.",
+    "source": "Gall's Law"
+  },
+  {
+    "text": "I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us."
+  },
+  { "text": "Net is net zat.", "source": "Cobus Spierings" },
+  {
+    "text": "The master has failed more times than the beginner has even tried.",
+    "source": "Stephen McCranie, comic writer"
+  },
+  {
+    "text": "It is life showing from beginning that we can't really control anything",
+    "source": "Andre Teixeira, Jumbo colleague. Net na het krijgen van een baby"
+  },
+  {
+    "text": "The time is always right to do what is right",
+    "source": "Martin Luther King Jr."
+  },
+  {
+    "text": "The hardest thing to do is be true to yourself, especially when everybody is watching",
+    "source": "Dave Chapelle"
+  },
+  {
+    "text": "I am wasting a significant amount of my energy on someone who doesn't wanna waste any energy on themselves",
+    "source": "Joe Rogan"
+  },
+  {
+    "text": "Mass is the enemy of both efficiency and performance, and minimizing the weight of every component is an ongoing goal for our design and engineering teams.",
+    "source": "Tesla.com post"
+  },
+  {
+    "text": "What the hell kind of country is this where you can only hate a man is he is white",
+    "source": "Hank Hill"
+  },
+  {
+    "text": "No problem is too small or too trivial if we can really do something about it.",
+    "source": "Richard Feynman"
+  },
+  {
+    "text": "What happened and what we're doing about it",
+    "source": "Cloudflare article sub-title"
+  },
+  {
+    "text": "Pain is inevitable; suffering is optional",
+    "source": "Haruki Murakami, Buddhist priest"
+  },
+  {
+    "text": "Busy is what happens when you're at the mercy of someone else's schedule.",
+    "source": "Derek Sivers"
+  },
+  {
+    "text": "You cannot get a simple system by adding simplicity to a complex system.",
+    "source": "Richard O'Keefe"
+  },
+  {
+    "text": "What I want is what you want. And I don't know what you want",
+    "source": "Alan Watts"
+  },
+  {
+    "text": "There is a difference between knowing the path & walking the path.",
+    "source": "Morpheus"
+  },
+  {
+    "text": "You know when there is letters, and you think they are a language. What were you before that?",
+    "source": "Uber driver van Duncan Trussel, buddhist guy"
+  },
+  {
+    "text": "Enjoy failure and learn from it. You can never learn from success.",
+    "source": "James Dyson"
+  },
+  {
+    "text": "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.",
+    "source": "George Bernard Shaw"
+  },
+  {
+    "text": "My mind is made up, don't confuse me with facts!",
+    "source": "Gezegde"
+  },
+  {
+    "text": "One of the worst things you can do is force people who don't feel pain to take your aspirin.",
+    "source": "Max Kreminski"
+  },
+  {
+    "text": "Never choose te be a hero, because  heroes die a uncomfortable death",
+    "source": "Dave Chapelle"
+  },
+  { "text": "Consistency enables Change", "source": "Internet" },
+  {
+    "text": "Een gelukkig mens is zo tevreden met het heden dat hij niet aan de toekomst denkt",
+    "source": "Albert Einstein"
+  },
+  { "text": "Discomfort facilitates change", "source": "Verzonnen" },
+  {
+    "text": "If you can find a path with no obstacles, it probably doesn't lead anywhere.",
+    "source": "Frank A. Clark"
+  },
+  {
+    "text": "Engineering is done with numbers. Analysis without numbers is only an opinion.",
+    "source": "website: https://spacecraft.ssl.umd.edu/akins_laws.html"
+  },
+  {
+    "text": "It don't matter whose fault it is that something is broken, if it's your responsibility to fixt it",
+    "source": "Will Smith"
+  },
+  {
+    "text": "Cunningham's Law states the best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer. Ook genoemd McDonalds Theory: als niemand weet waar te lunchen; stel McDonalds voor. Iedereen reagert met Nee, vet goor! en zal het idee verbeteren. Mensen zijn meer editors dan writers."
+  },
+  { "text": "The best is the enemy of the good", "source": "Voltaire" },
+  { "text": "Don't let the perfect be the enemy of the good." },
+  {
+    "text": "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.",
+    "source": "Kung Fu Panda schildpad"
+  },
+  {
+    "text": "Everybody wants to be the CEO, but does not want to work 80 hour weeks. What are the costs that I'm okay with",
+    "source": "Mark Manson"
+  },
+  {
+    "text": "Het is makkelijk om je voor te stellen welke vóórdelen je ergens van wilt, maar vaak wegen die niet op tegen de nadelen. Iedereen heeft problemen in je leven, welke wil jij? In die zin is een offer aan de goden een echt ding; als je iets opoffert dan heb je kans om er iets voor terug te krijgen"
+  },
+  {
+    "text": "You have got to follow the rules before you can break the rules",
+    "source": "Matthew Mcconaughey"
+  },
+  {
+    "text": "Disciplined first, then exceptional",
+    "source": "Jordan Peterson"
+  },
+  {
+    "text": "Those who do not move do not notice their chains",
+    "source": "Rosa Luxemburg"
+  },
+  {
+    "text": "Pain is a matter of perspective of the person going through it",
+    "source": "Marcus Luttrell, Navy SEAL"
+  },
+  {
+    "text": "Mag ik je bedanken voor je tomeloze inzet en je zeer gewaarde inspanningen",
+    "source": "Dominique van Helvoirt"
+  },
+  {
+    "text": "Sometimes you cut corners, sometime the corner cuts you",
+    "source": "Film: how fast can you take your time?"
+  },
+  { "text": "Festina lente (make haste slowly)" },
+  {
+    "text": "It is the sign of an educated mind to be able to entertain a thought without accepting it",
+    "source": "Aristotle"
+  },
+  {
+    "text": "You crave what you eat, and you eat what you crave",
+    "source": "Reddit dude, /r/carnivore"
+  },
+  {
+    "text": "Give a man a gun and he can rob a bank, give a man a bank and he can rob the world",
+    "source": "Tyrell Wellick, Mr. Robot"
+  },
+  {
+    "text": "Zij die het al onderhandelend soms ver weten te schoppen in de materiële wereld zullen gevangen blijven in de woestijn van hun gevoelswereld",
+    "source": "Mark Manson"
+  },
+  {
+    "text": "Waarde gebaseerd op transacties creëren relaties gebaseerd op manipulatie",
+    "source": "Mark Manson"
+  },
+  {
+    "text": "Als je probeert te marchanderen voor geluk, dan beroof je dat geluk van zijn waarde",
+    "source": "Mark Manson"
+  },
+  {
+    "text": "The ones who are crazy enough to think that they can change the world are the ones who do.",
+    "source": "John McAfee"
+  },
+  {
+    "text": "Our life is what our thoughts make it",
+    "source": "Marcus Aurelius"
+  },
+  {
+    "text": "Je bent niet wat je denkt dat je bent, je bent wat je denkt",
+    "source": "Norman Vince Peal"
+  },
+  {
+    "text": "Pride should be reserved for something you achieve or attain on your own, not something that happens by accident of birth",
+    "source": "George Carlin"
+  },
+  {
+    "text": "Don't depend too much on anyone in this world because even your own shadow leaves you when you are in darkness.",
+    "source": "Ibn Taymiyyah"
+  },
+  {
+    "text": "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.",
+    "source": "George Bernard Shaw, Man and Superman"
+  },
+  {
+    "text": "The only way to see if something can hold water is to fill it.",
+    "source": "Blog post"
+  },
+  { "text": "It takes one to know one" },
+  {
+    "text": "Nobody's life is perfect. No matter what it looks from the outside, you don't know what the fuck is going on inside",
+    "source": "Dave Chapelle"
+  },
+  {
+    "text": "In the information age, the barriers are self imposed. To develop something you need pizza, Diet Coke and the dedication to go through with it.",
+    "source": "John Carmack"
+  },
+  { "text": "Beneath the blanket is no way to fame", "source": "Dante" },
+  {
+    "text": "Is doen't amount to anything at all, it's just words about words",
+    "source": "Alan Watts"
+  },
+  {
+    "text": "You could leave life right now. Let that determine what you and say and think",
+    "source": "Marcus Aurelius"
+  },
+  {
+    "text": "You're afraid of dying, but how is the way that you're living any different from being dead",
+    "source": "Seneca"
+  },
+  {
+    "text": "You act like mortals in all that you fear and immortals in all that you desire",
+    "source": "Seneca"
+  },
+  { "text": "Wijs is te willen wat het lot je brengt", "source": "Seneca" },
+  {
+    "text": "Grief is the price we pay for love",
+    "source": "Queen Elizabeth II"
+  },
+  {
+    "text": "The brain can change if you treat it right",
+    "source": "Gabor Mate"
+  },
+  {
+    "text": "Ultimately, pleasures and hardships fade, what remains at the end is what we accomplished and what we regret."
+  },
+  { "text": "Many dreams die while suffering", "source": "David Goggins" }
+]
